@@ -1,0 +1,13 @@
+.full{
+  width: 95vw;
+  height: 95vh;
+}
+  
+
+#indicators {
+    padding: 16px;
+    height: 40%;
+    width: 100%;
+    overflow-y: auto;
+    display: block;
+}
